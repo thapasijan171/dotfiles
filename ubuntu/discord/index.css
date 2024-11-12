@@ -1,8 +1,8 @@
 :root {
   /* --app-bg: url(https://4kwallpapers.com/images/walls/thumbs_3t/18405.jpg); */
   --app-bg: url(https://4kwallpapers.com/images/walls/thumbs_3t/10514.png);
-  --app-blur: 6px;
-  --app-margin: 24px;
+  --app-blur: 14px;
+  --app-margin: 10px;
   --app-radius: 10px;
   --main-rgb: 0,0,0;
   --main-content-opacity: 0.2;
